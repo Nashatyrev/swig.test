@@ -1,7 +1,6 @@
 %module "test"
 
-%include "arrays_java.i";
 %include "stdint.i";
-%include "typemaps.i"
+%include "arrays_java.i";
 
 %include "test.h";
